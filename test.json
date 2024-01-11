@@ -1,0 +1,28 @@
+{
+  "2022": [
+    {
+      "__type": "Signazon.BL.Common.Objects.Lookup.GenericData",
+      "Id": "95848",
+      "Data": "Blazer",
+      "Value": "57 23.6",
+      "PageLink": null,
+      "Name": null,
+      "Detail": null,
+      "Type": 2,
+      "ItemDate": null,
+      "ItemBool": false
+    },
+    {
+      "__type": "Signazon.BL.Common.Objects.Lookup.GenericData",
+      "Id": "98128",
+      "Data": "Colorado  2 Door Extended Cab",
+      "Value": "55.5 13",
+      "PageLink": null,
+      "Name": null,
+      "Detail": null,
+      "Type": 3,
+      "ItemDate": null,
+      "ItemBool": false
+    }
+  ]
+}
