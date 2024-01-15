@@ -1,0 +1,983 @@
+{
+  "2000": [
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106697",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "81946",
+      "model": "Dakota Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82848",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "81718",
+      "model": "Pickup 1500 2 Door Club Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82914",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87209",
+      "model": "Pickup 1500 4 Door Quad Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88468",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88484",
+      "model": "Pickup 2500 4 Door Quad Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99546",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99580",
+      "model": "Pickup 3500 4 Door Quad Cab"
+    }
+  ],
+  "2001": [
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "108092",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "108052",
+      "model": "Dakota Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "107714",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "91614",
+      "model": "Pickup 1500 2 Door Club Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "91662",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87007",
+      "model": "Pickup 1500 4 Door Quad Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96778",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88496",
+      "model": "Pickup 2500 4 Door Quad Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99558",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99573",
+      "model": "Pickup 3500 4 Door Quad Cab"
+    }
+  ],
+  "2002": [
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106766",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106545",
+      "model": "Dakota Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "108133",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82295",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "91575",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88466",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96765",
+      "model": "Pickup 2500 4 Door Quad Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99566",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99567",
+      "model": "Pickup 3500 4 Door Quad Cab"
+    }
+  ],
+  "2003": [
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106557",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "107756",
+      "model": "Dakota Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "105764",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "81737",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "91773",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88491",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96788",
+      "model": "Pickup 2500 4 Door Crew Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99543",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99561",
+      "model": "Pickup 3500 4 Door Crew Cab"
+    }
+  ],
+  "2004": [
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106104",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82444",
+      "model": "Dakota Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82443",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "86433",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88845",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88464",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88476",
+      "model": "Pickup 2500 4 Door Crew Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99544",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99547",
+      "model": "Pickup 3500 4 Door Crew Cab"
+    }
+  ],
+  "2005": [
+    {
+      "year": 2005,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106644",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Dodge",
+      "make": 66,
+      "id": "108217",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Dodge",
+      "make": 66,
+      "id": "91091",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87045",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96786",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96760",
+      "model": "Pickup 2500 4 Door Crew Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99571",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99576",
+      "model": "Pickup 3500 4 Door Crew Cab"
+    }
+  ],
+  "2006": [
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82894",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "105950",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "91618",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "91663",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "86995",
+      "model": "Pickup 1500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96790",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96767",
+      "model": "Pickup 2500 4 Door Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96779",
+      "model": "Pickup 2500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99570",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99556",
+      "model": "Pickup 3500 4 Door Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99575",
+      "model": "Pickup 3500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "102544",
+      "model": "Pickup 4500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96842",
+      "model": "Pickup 5500 4 Door Extended Crew Cab"
+    }
+  ],
+  "2007": [
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106214",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106781",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87855",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87834",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87192",
+      "model": "Pickup 1500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88494",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96761",
+      "model": "Pickup 2500 4 Door Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96797",
+      "model": "Pickup 2500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99583",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99555",
+      "model": "Pickup 3500 4 Door Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99578",
+      "model": "Pickup 3500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "102542",
+      "model": "Pickup 4500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96858",
+      "model": "Pickup 5500 4 Door Extended Crew Cab"
+    }
+  ],
+  "2008": [
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106212",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82912",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87826",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88765",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87589",
+      "model": "Pickup 1500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96764",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88477",
+      "model": "Pickup 2500 4 Door Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88462",
+      "model": "Pickup 2500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99560",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99559",
+      "model": "Pickup 3500 4 Door Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99553",
+      "model": "Pickup 3500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "102549",
+      "model": "Pickup 4500 2 Door Standard Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "102545",
+      "model": "Pickup 4500 4 Door Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "102543",
+      "model": "Pickup 4500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96866",
+      "model": "Pickup 5500 2 Door Standard Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96860",
+      "model": "Pickup 5500 4 Door Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96853",
+      "model": "Pickup 5500 4 Door Extended Crew Cab"
+    }
+  ],
+  "2009": [
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "108248",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106698",
+      "model": "Dakota Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87157",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87158",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "91767",
+      "model": "Pickup 1500 4 Door Quad Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88483",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88457",
+      "model": "Pickup 2500 4 Door Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "88485",
+      "model": "Pickup 2500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99552",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99581",
+      "model": "Pickup 3500 4 Door Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99563",
+      "model": "Pickup 3500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "102547",
+      "model": "Pickup 4500 2 Door Standard Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "102546",
+      "model": "Pickup 4500 4 Door Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "102550",
+      "model": "Pickup 4500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96864",
+      "model": "Pickup 5500 2 Door Standard Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96878",
+      "model": "Pickup 5500 4 Door Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96854",
+      "model": "Pickup 5500 4 Door Extended Crew Cab"
+    }
+  ],
+  "2010": [
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "106758",
+      "model": "Dakota Pickup  2 Door Club Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "86424",
+      "model": "Pickup 1500 2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82916",
+      "model": "Pickup 1500 4 Door Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82915",
+      "model": "Pickup 1500 4 Door Quad Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "107489",
+      "model": "Pickup 1500 HYBRID 2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "107487",
+      "model": "Pickup 1500 HYBRID 4 Door Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "107488",
+      "model": "Pickup 1500 HYBRID 4 Door Quad Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96755",
+      "model": "Pickup 2500 2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96791",
+      "model": "Pickup 2500 4 Door Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "96756",
+      "model": "Pickup 2500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99551",
+      "model": "Pickup 3500 2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99568",
+      "model": "Pickup 3500 4 Door Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99574",
+      "model": "Pickup 3500 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "87584",
+      "model": "Pickup 3500 CAB/CHS 2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82244",
+      "model": "Pickup 3500 CAB/CHS 4 Door Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "82245",
+      "model": "Pickup 3500 CAB/CHS 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99234",
+      "model": "Pickup 4500 CAB/CHS 2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99233",
+      "model": "Pickup 4500 CAB/CHS 4 Door Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99242",
+      "model": "Pickup 4500 CAB/CHS 4 Door Extended Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99545",
+      "model": "Pickup 5500 CAB/CHS 2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99564",
+      "model": "Pickup 5500 CAB/CHS 4 Door Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Dodge",
+      "make": 66,
+      "id": "99577",
+      "model": "Pickup 5500 CAB/CHS 4 Door Extended Crew Cab"
+    }
+  ]
+}

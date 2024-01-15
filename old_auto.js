@@ -1,14 +1,15 @@
 const puppeteer = require('puppeteer')
 const makes = require('./makes.json')
-const chevrolet = require('./makes/chevrolet.json')
+const chevrolet = require('./chevrolet.json')
+const test = require('./test.json')
 const fs = require('fs')
 
 
 
 async function scrapeData(year) {
-  const makeId = makes[0].Id
-    const modelArray = chevrolet[year]
-  console.log(year)
+  const modelArray = chevrolet[year]
+// const year = '2022'
+const makeId = makes[0].Id
   const browser = await puppeteer.launch({
     // devtools: true,
     headless: false,
@@ -25,21 +26,40 @@ async function scrapeData(year) {
 
   await page.locator('#PCcwSelect[data-select="Make"]').click()
 
-  await page.locator('#pcCWYear').fill(year.toString())
+  await page.locator('#pcCWYear').fill(year)
 
   await page.locator('#pcCWMake').fill(makeId)
 
-  const getModel = async () => {for (const model of modelArray){    
+  // await page.waitForNetworkIdle()
+  const getModel = async () => {for (const model of modelArray){
     const modelId = model.Id;
     await page.locator('#pcCWModel').fill(modelId)
+    // await page.waitForNetworkIdle()
     const response = await page.waitForResponse(async (response) => {
       return (await response.text()).includes('decals')
     })
+    // return response
+    // console.log('response', await response.text())
     const rawData = await response.text();
+    // const data = await rawData;
     const truckObject = await makeTruckObject(rawData);
     await appendData(truckObject);
   }}
 
+  // await page.locator('#pcCWModel').fill(modelId)
+  // // await page.evaluate(() => {
+  // //   debugger;
+  // // });
+
+  // const response = await page.waitForResponse(async (response) => {
+  //   return (await response.text()).includes('decals')
+  // })
+
+//   await page.waitForNetworkIdle()
+// await page.evaluate(() => {
+//   debugger;
+// });
+  // await browser.close()
   const response = await getModel()
   return response
 }
@@ -83,12 +103,22 @@ async function appendData(data) {
   return
 }
 
-const scrape = async () => {
-for (i = 2019; i<2023; i++){
-  const year = i
-  await scrapeData(year)
-}
-}
-
-scrape()
-  
+// async function getSizes(modelArray) {
+//     // for (const model of modelArray) {
+//     //   const modelId = model.Id;
+//     //   console.log('modelId', modelId);
+//       try {
+//         const rawData = await scrapeData(year, makeId,  modelArray);
+//         // const data = await rawData.text();
+//         // const truckObject = await makeTruckObject(data);
+//         // console.log('truckObject', truckObject);
+//         // await appendData(truckObject);
+//       } catch (error) {
+//         console.error('Error during scraping for modeelArray', error);
+//       }
+//     // }
+//   }
+  for (const year of  chevrolet) {
+    scrapeData(year)
+  }
+// getSizes(chevrolet[2022])

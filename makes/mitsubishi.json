@@ -1,0 +1,82 @@
+{
+  "2006": [
+    {
+      "year": 2006,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "85995",
+      "model": "Raider  2 Door Extended Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "85932",
+      "model": "Raider  4 Door Crew Cab"
+    }
+  ],
+  "2007": [
+    {
+      "year": 2007,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "85907",
+      "model": "Raider  2 Door Extended Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "85983",
+      "model": "Raider  4 Door Crew Cab"
+    }
+  ],
+  "2008": [
+    {
+      "year": 2008,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "102945",
+      "model": "Raider  2 Door Extended Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "103725",
+      "model": "Raider  4 Door Crew Cab"
+    }
+  ],
+  "2009": [
+    {
+      "year": 2009,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "88542",
+      "model": "Raider  2 Door Extended Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "103663",
+      "model": "Raider  4 Door Crew Cab"
+    }
+  ],
+  "2010": [
+    {
+      "year": 2010,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "103649",
+      "model": "Raider  2 Door Extended Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Mitsubishi",
+      "make": 78,
+      "id": "97906",
+      "model": "Raider  4 Door Crew Cab"
+    }
+  ]
+}

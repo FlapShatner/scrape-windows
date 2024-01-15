@@ -1,0 +1,181 @@
+{
+  "2000": [
+    {
+      "year": 2000,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "107873",
+      "model": "Amigo"
+    },
+    {
+      "year": 2000,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "87802",
+      "model": "Hombre Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "109081",
+      "model": "Hombre Pickup  2 Door Standard Cab"
+    }
+  ],
+  "2006": [
+    {
+      "year": 2006,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "92766",
+      "model": "HTR  2 Door Conventional Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "83096",
+      "model": "HTR  4 Door Conventional Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "93077",
+      "model": "HVR  2 Door Conventional Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "89127",
+      "model": "HVR  4 Door Conventional Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "107825",
+      "model": "HXR  2 Door Conventional Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "93164",
+      "model": "i-280  2 Door Extended Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "81254",
+      "model": "i-350  4 Door Crew Cab"
+    }
+  ],
+  "2007": [
+    {
+      "year": 2007,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "98314",
+      "model": "HTR  2 Door Conventional Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "82474",
+      "model": "HTR  4 Door Conventional Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "93664",
+      "model": "HVR  2 Door Conventional Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "93014",
+      "model": "HVR  4 Door Conventional Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "106865",
+      "model": "HXR  2 Door Conventional Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "89781",
+      "model": "i-290  2 Door Extended Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "95983",
+      "model": "i-370  2 Door Extended Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "105272",
+      "model": "i-370  4 Door Crew Cab"
+    }
+  ],
+
+  "2009": [
+    {
+      "year": 2009,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "98419",
+      "model": "i-290  2 Door Extended Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "104328",
+      "model": "i-370  2 Door Extended Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "96010",
+      "model": "i-370  4 Door Crew Cab"
+    }
+  ],
+  "2010": [
+    {
+      "year": 2010,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "82030",
+      "model": "i-290  2 Door Extended Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "101247",
+      "model": "i-370  2 Door Extended Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Isuzu",
+      "make": 21,
+      "id": "86636",
+      "model": "i-370  4 Door Crew Cab"
+    }
+  ]
+}

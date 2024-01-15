@@ -1,0 +1,360 @@
+{
+  "2000": [
+    {
+      "year": 2000,
+      "name": "Mazda",
+      "make": 29,
+      "id": "100715",
+      "model": "B2500 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Mazda",
+      "make": 29,
+      "id": "99698",
+      "model": "B2500 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Mazda",
+      "make": 29,
+      "id": "104355",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Mazda",
+      "make": 29,
+      "id": "106466",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    }
+  ],
+  "2001": [
+    {
+      "year": 2001,
+      "name": "Mazda",
+      "make": 29,
+      "id": "84543",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Mazda",
+      "make": 29,
+      "id": "103920",
+      "model": "B2500 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Mazda",
+      "make": 29,
+      "id": "104160",
+      "model": "B2500 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Mazda",
+      "make": 29,
+      "id": "105595",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Mazda",
+      "make": 29,
+      "id": "89821",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Mazda",
+      "make": 29,
+      "id": "83187",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2002": [
+    {
+      "year": 2002,
+      "name": "Mazda",
+      "make": 29,
+      "id": "84561",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Mazda",
+      "make": 29,
+      "id": "100525",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Mazda",
+      "make": 29,
+      "id": "107661",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Mazda",
+      "make": 29,
+      "id": "85774",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2003": [
+    {
+      "year": 2003,
+      "name": "Mazda",
+      "make": 29,
+      "id": "91342",
+      "model": "B2300 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Mazda",
+      "make": 29,
+      "id": "83850",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Mazda",
+      "make": 29,
+      "id": "83422",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Mazda",
+      "make": 29,
+      "id": "83421",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Mazda",
+      "make": 29,
+      "id": "81236",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2004": [
+    {
+      "year": 2004,
+      "name": "Mazda",
+      "make": 29,
+      "id": "99314",
+      "model": "B2300 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Mazda",
+      "make": 29,
+      "id": "98539",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Mazda",
+      "make": 29,
+      "id": "93580",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Mazda",
+      "make": 29,
+      "id": "105580",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Mazda",
+      "make": 29,
+      "id": "83171",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2005": [
+    {
+      "year": 2005,
+      "name": "Mazda",
+      "make": 29,
+      "id": "93717",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Mazda",
+      "make": 29,
+      "id": "106142",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Mazda",
+      "make": 29,
+      "id": "104550",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Mazda",
+      "make": 29,
+      "id": "90711",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2006": [
+    {
+      "year": 2006,
+      "name": "Mazda",
+      "make": 29,
+      "id": "93037",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Mazda",
+      "make": 29,
+      "id": "105489",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Mazda",
+      "make": 29,
+      "id": "100513",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Mazda",
+      "make": 29,
+      "id": "90587",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2007": [
+    {
+      "year": 2007,
+      "name": "Mazda",
+      "make": 29,
+      "id": "99647",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Mazda",
+      "make": 29,
+      "id": "106437",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Mazda",
+      "make": 29,
+      "id": "104992",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Mazda",
+      "make": 29,
+      "id": "90831",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2008": [
+    {
+      "year": 2008,
+      "name": "Mazda",
+      "make": 29,
+      "id": "89089",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Mazda",
+      "make": 29,
+      "id": "105480",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Mazda",
+      "make": 29,
+      "id": "100346",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Mazda",
+      "make": 29,
+      "id": "90061",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2009": [
+    {
+      "year": 2009,
+      "name": "Mazda",
+      "make": 29,
+      "id": "98522",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Mazda",
+      "make": 29,
+      "id": "105624",
+      "model": "B3000 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Mazda",
+      "make": 29,
+      "id": "105849",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Mazda",
+      "make": 29,
+      "id": "85704",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ],
+  "2010": [
+    {
+      "year": 2010,
+      "name": "Mazda",
+      "make": 29,
+      "id": "101355",
+      "model": "B2300 Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Mazda",
+      "make": 29,
+      "id": "91322",
+      "model": "B2300 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Mazda",
+      "make": 29,
+      "id": "100533",
+      "model": "B3000 Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Mazda",
+      "make": 29,
+      "id": "89632",
+      "model": "B4000 Pickup  2 Door Extended Cab"
+    }
+  ]
+}

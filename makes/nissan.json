@@ -1,0 +1,746 @@
+{
+  "2000": [
+    {
+      "year": 2000,
+      "name": "Nissan",
+      "make": 81,
+      "id": "104605",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Nissan",
+      "make": 81,
+      "id": "105527",
+      "model": "Frontier Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2000,
+      "name": "Nissan",
+      "make": 81,
+      "id": "96661",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    }
+  ],
+  "2001": [
+    {
+      "year": 2001,
+      "name": "Nissan",
+      "make": 81,
+      "id": "104167",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Nissan",
+      "make": 81,
+      "id": "103940",
+      "model": "Frontier Pickup  2 Door Standard Cab"
+    },
+    {
+      "year": 2001,
+      "name": "Nissan",
+      "make": 81,
+      "id": "84939",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    }
+  ],
+  "2002": [
+    {
+      "year": 2002,
+      "name": "Nissan",
+      "make": 81,
+      "id": "99677",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2002,
+      "name": "Nissan",
+      "make": 81,
+      "id": "105549",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    }
+  ],
+  "2003": [
+    {
+      "year": 2003,
+      "name": "Nissan",
+      "make": 81,
+      "id": "85006",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2003,
+      "name": "Nissan",
+      "make": 81,
+      "id": "101389",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    }
+  ],
+  "2004": [
+    {
+      "year": 2004,
+      "name": "Nissan",
+      "make": 81,
+      "id": "99680",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Nissan",
+      "make": 81,
+      "id": "101382",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Nissan",
+      "make": 81,
+      "id": "99767",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2004,
+      "name": "Nissan",
+      "make": 81,
+      "id": "99749",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2005": [
+    {
+      "year": 2005,
+      "name": "Nissan",
+      "make": 81,
+      "id": "107594",
+      "model": "Frontier (MEX) 4 Door Crew Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Nissan",
+      "make": 81,
+      "id": "105518",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94487",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Nissan",
+      "make": 81,
+      "id": "91270",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2005,
+      "name": "Nissan",
+      "make": 81,
+      "id": "102646",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2006": [
+    {
+      "year": 2006,
+      "name": "Nissan",
+      "make": 81,
+      "id": "107604",
+      "model": "Frontier (MEX) 4 Door Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94135",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100122",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94216",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2006,
+      "name": "Nissan",
+      "make": 81,
+      "id": "81568",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2007": [
+    {
+      "year": 2007,
+      "name": "Nissan",
+      "make": 81,
+      "id": "107588",
+      "model": "Frontier (MEX) 4 Door Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Nissan",
+      "make": 81,
+      "id": "104636",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Nissan",
+      "make": 81,
+      "id": "98897",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94235",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2007,
+      "name": "Nissan",
+      "make": 81,
+      "id": "81472",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2008": [
+    {
+      "year": 2008,
+      "name": "Nissan",
+      "make": 81,
+      "id": "106972",
+      "model": "Frontier (MEX) 4 Door Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94671",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Nissan",
+      "make": 81,
+      "id": "96681",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Nissan",
+      "make": 81,
+      "id": "82326",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2008,
+      "name": "Nissan",
+      "make": 81,
+      "id": "82325",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2009": [
+    {
+      "year": 2009,
+      "name": "Nissan",
+      "make": 81,
+      "id": "98863",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100181",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94403",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2009,
+      "name": "Nissan",
+      "make": 81,
+      "id": "101159",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2010": [
+    {
+      "year": 2010,
+      "name": "Nissan",
+      "make": 81,
+      "id": "96677",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100737",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Nissan",
+      "make": 81,
+      "id": "82827",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2010,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94566",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2011": [
+    {
+      "year": 2011,
+      "name": "Nissan",
+      "make": 81,
+      "id": "90005",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2011,
+      "name": "Nissan",
+      "make": 81,
+      "id": "89009",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2011,
+      "name": "Nissan",
+      "make": 81,
+      "id": "85269",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2011,
+      "name": "Nissan",
+      "make": 81,
+      "id": "81888",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2012": [
+    {
+      "year": 2012,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100768",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2012,
+      "name": "Nissan",
+      "make": 81,
+      "id": "105073",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2012,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94740",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2012,
+      "name": "Nissan",
+      "make": 81,
+      "id": "99821",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2013": [
+    {
+      "year": 2013,
+      "name": "Nissan",
+      "make": 81,
+      "id": "105028",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2013,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94639",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2013,
+      "name": "Nissan",
+      "make": 81,
+      "id": "98231",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2013,
+      "name": "Nissan",
+      "make": 81,
+      "id": "81135",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2014": [
+    {
+      "year": 2014,
+      "name": "Nissan",
+      "make": 81,
+      "id": "101404",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2014,
+      "name": "Nissan",
+      "make": 81,
+      "id": "84963",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2014,
+      "name": "Nissan",
+      "make": 81,
+      "id": "91242",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2014,
+      "name": "Nissan",
+      "make": 81,
+      "id": "102630",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2015": [
+    {
+      "year": 2015,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100148",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2015,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94125",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2015,
+      "name": "Nissan",
+      "make": 81,
+      "id": "82371",
+      "model": "Titan  2 Door Extended Cab"
+    },
+    {
+      "year": 2015,
+      "name": "Nissan",
+      "make": 81,
+      "id": "87423",
+      "model": "Titan  4 Door Crew Cab"
+    }
+  ],
+  "2016": [
+    {
+      "year": 2016,
+      "name": "Nissan",
+      "make": 81,
+      "id": "99714",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2016,
+      "name": "Nissan",
+      "make": 81,
+      "id": "101424",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2016,
+      "name": "Nissan",
+      "make": 81,
+      "id": "91088",
+      "model": "Titan XD  4 Door Crew Cab"
+    }
+  ],
+  "2017": [
+    {
+      "year": 2017,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94647",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2017,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100157",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2017,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94238",
+      "model": "Titan  2 Door Standard Cab"
+    },
+    {
+      "year": 2017,
+      "name": "Nissan",
+      "make": 81,
+      "id": "82376",
+      "model": "Titan  4 Door Crew Cab"
+    },
+    {
+      "year": 2017,
+      "name": "Nissan",
+      "make": 81,
+      "id": "81426",
+      "model": "Titan  4 Door Extended Cab"
+    },
+    {
+      "year": 2017,
+      "name": "Nissan",
+      "make": 81,
+      "id": "81741",
+      "model": "Titan XD  2 Door Standard Cab"
+    },
+    {
+      "year": 2017,
+      "name": "Nissan",
+      "make": 81,
+      "id": "87025",
+      "model": "Titan XD  4 Door Crew Cab"
+    },
+    {
+      "year": 2017,
+      "name": "Nissan",
+      "make": 81,
+      "id": "82933",
+      "model": "Titan XD  4 Door Extended Cab"
+    }
+  ],
+  "2018": [
+    {
+      "year": 2018,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100124",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2018,
+      "name": "Nissan",
+      "make": 81,
+      "id": "96666",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2018,
+      "name": "Nissan",
+      "make": 81,
+      "id": "81427",
+      "model": "Titan  2 Door Standard Cab"
+    },
+    {
+      "year": 2018,
+      "name": "Nissan",
+      "make": 81,
+      "id": "83227",
+      "model": "Titan  4 Door Crew Cab"
+    },
+    {
+      "year": 2018,
+      "name": "Nissan",
+      "make": 81,
+      "id": "102639",
+      "model": "Titan  4 Door Extended Cab"
+    },
+    {
+      "year": 2018,
+      "name": "Nissan",
+      "make": 81,
+      "id": "88142",
+      "model": "Titan XD  2 Door Standard Cab"
+    },
+    {
+      "year": 2018,
+      "name": "Nissan",
+      "make": 81,
+      "id": "91544",
+      "model": "Titan XD  4 Door Crew Cab"
+    },
+    {
+      "year": 2018,
+      "name": "Nissan",
+      "make": 81,
+      "id": "87659",
+      "model": "Titan XD  4 Door Extended Cab"
+    }
+  ],
+  "2019": [
+    {
+      "year": 2019,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100174",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2019,
+      "name": "Nissan",
+      "make": 81,
+      "id": "98850",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2019,
+      "name": "Nissan",
+      "make": 81,
+      "id": "101920",
+      "model": "Titan  2 Door Standard Cab"
+    },
+    {
+      "year": 2019,
+      "name": "Nissan",
+      "make": 81,
+      "id": "98205",
+      "model": "Titan  4 Door Crew Cab"
+    },
+    {
+      "year": 2019,
+      "name": "Nissan",
+      "make": 81,
+      "id": "91254",
+      "model": "Titan  4 Door Extended Cab"
+    },
+    {
+      "year": 2019,
+      "name": "Nissan",
+      "make": 81,
+      "id": "91043",
+      "model": "Titan XD  2 Door Standard Cab"
+    },
+    {
+      "year": 2019,
+      "name": "Nissan",
+      "make": 81,
+      "id": "87036",
+      "model": "Titan XD  4 Door Crew Cab"
+    },
+    {
+      "year": 2019,
+      "name": "Nissan",
+      "make": 81,
+      "id": "82247",
+      "model": "Titan XD  4 Door Extended Cab"
+    }
+  ],
+  "2020": [
+    {
+      "year": 2020,
+      "name": "Nissan",
+      "make": 81,
+      "id": "89983",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2020,
+      "name": "Nissan",
+      "make": 81,
+      "id": "100748",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2020,
+      "name": "Nissan",
+      "make": 81,
+      "id": "85270",
+      "model": "Titan  4 Door Crew Cab"
+    },
+    {
+      "year": 2020,
+      "name": "Nissan",
+      "make": 81,
+      "id": "101161",
+      "model": "Titan  4 Door Extended Cab"
+    },
+    {
+      "year": 2020,
+      "name": "Nissan",
+      "make": 81,
+      "id": "87587",
+      "model": "Titan XD  4 Door Crew Cab"
+    }
+  ],
+  "2021": [
+    {
+      "year": 2021,
+      "name": "Nissan",
+      "make": 81,
+      "id": "108941",
+      "model": "Altima"
+    },
+    {
+      "year": 2021,
+      "name": "Nissan",
+      "make": 81,
+      "id": "89994",
+      "model": "Frontier Pickup  2 Door Extended Cab"
+    },
+    {
+      "year": 2021,
+      "name": "Nissan",
+      "make": 81,
+      "id": "104748",
+      "model": "Frontier Pickup  4 Door Crew Cab"
+    },
+    {
+      "year": 2021,
+      "name": "Nissan",
+      "make": 81,
+      "id": "101205",
+      "model": "Titan  4 Door Crew Cab"
+    },
+    {
+      "year": 2021,
+      "name": "Nissan",
+      "make": 81,
+      "id": "94265",
+      "model": "Titan  4 Door Extended Cab"
+    },
+    {
+      "year": 2021,
+      "name": "Nissan",
+      "make": 81,
+      "id": "87660",
+      "model": "Titan XD  4 Door Crew Cab"
+    }
+  ]
+}
